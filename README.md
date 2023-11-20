@@ -12,7 +12,7 @@
 <p>2. Clone the repository:</p>
 
 ```
- git clone [https://github.com/codewithnadeem14502/MERN.git](https://github.com/codewithnadeem14502/MERN-BOOKS.git)
+ git clone https://github.com/codewithnadeem14502/MERN-BOOKS.git
 ```
 
 <p>3. Navigate to the client directory and install dependencies:</p>
